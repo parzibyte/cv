@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: parzibyte/cv
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Luis Cabrera Benito
+title: Desarrollador freelancer enfocado en la web, software de escritorio y apps móviles
+email: parzibyte@gmail.com
+website: parzibyte.me
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: parzibyte
+github_username:  parzibyte
 # dribbble_username: jekyll
-# facebook_username: jekyll
+ facebook_username: parzibyte.fanpage
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: parzibyte
+#linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: UCroP4BTWjfM0CkGB6AFUoBg
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hola, me llamo Luis Cabrera Benito y soy un desarrollador freelancer con experiencia en desarrollo web y apps móviles. Además de mi experiencia en el desarrollo web, tengo conocimientos sobre administración de servidores. La mayoría de experiencia que tengo la he obtenido trabajando como un freelancer.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Los lenguajes que conozco incluyen PHP, JavaScript, Go, CSS, Java, C, Python, Kotlin.
 
 # Projects Section
 # projects_title: Projects
@@ -47,10 +47,10 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: parzibyte/cv
 
 sass:
   sass_dir: _sass
