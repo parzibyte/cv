@@ -29,16 +29,16 @@ about_content: | # this will include new lines to allow paragraphs
   Los lenguajes que conozco incluyen PHP, JavaScript, Go, CSS, Java, C, Python, Kotlin.
 
 # Projects Section
-# projects_title: Projects
+projects_title: Proyectos
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experiencia
 
 # Education Section
-# educaton_title: Education
+educaton_title: Educación
 
 # More Section
-# more_title: A Little More About Me
+more_title: Un poco más sobre mí
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: parzibyte/cv
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
