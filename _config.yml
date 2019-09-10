@@ -21,8 +21,8 @@ youtube_username: UCroP4BTWjfM0CkGB6AFUoBg
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Sobre mí
+about_profile_image: images/parzibyte.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, me llamo Luis Cabrera Benito y soy un desarrollador freelancer con experiencia en desarrollo web y apps móviles. Además de mi experiencia en el desarrollo web, tengo conocimientos sobre administración de servidores. La mayoría de experiencia que tengo la he obtenido trabajando como un freelancer.
 
