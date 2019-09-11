@@ -24,9 +24,18 @@ youtube_username: UCroP4BTWjfM0CkGB6AFUoBg
 about_title: Sobre mí
 about_profile_image: images/parzibyte.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, me llamo Luis Cabrera Benito y soy un desarrollador freelancer con experiencia en desarrollo web y apps móviles. Además de mi experiencia en el desarrollo web, tengo conocimientos sobre administración de servidores. La mayoría de experiencia que tengo la he obtenido trabajando como un freelancer.
+  Hola, me llamo **Luis Cabrera Benito** y soy un desarrollador freelancer con experiencia en desarrollo web, software de escritorio y apps móviles. 
 
-  Los lenguajes que conozco incluyen PHP, JavaScript, Go, CSS, Java, C, Python, Kotlin.
+  Aunque soy un desarrollador independiente, **no tengo problemas trabajando dentro de una empresa** (también sé hablar inglés en un 70 %).
+
+  La experiencia que tengo con la informática en general me permite adaptarme a varios lenguajes de programación, frameworks y herramientas en poco tiempo.
+
+  Además de mi experiencia en el desarrollo web, tengo conocimientos sobre administración de servidores, frameworks, mantenimiento de computadoras, instalación de sistemas operativos, etcétera (todo lo que un buen programador sabe). 
+  La mayoría de experiencia que tengo la he obtenido trabajando como un freelancer.
+
+  Los lenguajes que conozco incluyen PHP, JavaScript, Go, CSS, Java, C, Python y Kotlin.
+
+  Puedes ver más sobre lo que conozco en mi [blog](https://parzibyte.me/blog/)
 
 # Projects Section
 projects_title: Proyectos
@@ -40,11 +49,14 @@ education_title: Educación
 # More Section
 more_title: Un poco más sobre mí
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Me gusta mucho tomar café, e ir al cine. Además de eso, una de las cosas que más disfruto es pasar tiempo con mis mascotas.
+  También disfruto leer. Algunos de mis libro favoritos son:
+   - Ready Player One
+   - La rebelión de Atlas
+   - El paciente
+   - Rebelión en la granja
+   - El hombre bicentenario y otros cuentos
+   - La hora de las sombras
 
 # Footer
 footer_show_references: false

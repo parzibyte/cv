@@ -1,16 +1,118 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Todos mis proyectos
+  # link: https://parzibyte.me/blog/2019/09/05/turnero-web-software-control-turnos/
+  #github: sproogen/resume-theme
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    No puedo poner todos mis proyectos aquí, pues sería muy extenso.
+
+    1 - Si quiere, puede comenzar viendo el [software que he creado](https://parzibyte.me/blog/software-creado-por-parzibyte/)
+
+    2 - También puede visitar mi [GitHub](https://github.com/parzibyte?tab=repositories)
+
+    3 - O ver mi [portafolio web](https://parzibyte.me/#portafolio)
+
+- layout: top-middle    
+  name: Control de turnos
+  link: https://parzibyte.me/blog/2019/09/05/turnero-web-software-control-turnos/
+  #github: sproogen/resume-theme
+  description: | # this will include new lines to allow paragraphs
+    Un “turnero” web, funciona para consultorios o negocios en donde se tiene que hacer una cita o esperar turno para pasar.
+
+    ![Control de turnos](https://parzibyte.me/blog/wp-content/uploads/2019/09/Visualizaci%C3%B3n-de-turnos.png)
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+  name: App de entrega de paquetes con Android
+  link: https://parzibyte.me/blog/2019/09/05/app-entregas-android-sincronizacion-web-gps/
   github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Una app que sirve para la entrega de paquetes de manera offline para sincronizar con el servidor más tarde.
+
+    ![App de entrega de paquetes con Android](https://parzibyte.me/blog/wp-content/uploads/2019/09/5-Escanear-o-escribir-c%C3%B3digo-de-barras-de-paquete.jpg)
+- layout: top-middle
+  name: Sistema de ventas con Spring Boot
+  link: https://parzibyte.me/blog/2019/09/04/sistema-ventas-spring-mvc-mysql-bootstrap/
+  github: parzibyte/sistema-ventas-spring-boot
+  description: | # this will include new lines to allow paragraphs
+    Para practicar un poco sobre este framework de Java, hice un punto de venta con control de productos y registro de ventas
+
+    ![Sistema de ventas con Spring Boot](https://parzibyte.me/blog/wp-content/uploads/2019/09/Punto-de-venta-con-Spring-Boot-MySQL-y-Bootstrap-4.gif)
+- layout: top-middle
+  name: Juego de memorama en JavaScript
+  link: https://parzibyte.me/blog/2019/08/06/juego-memorama-javascript-tutorial/
+  github: parzibyte/juego-memorama-js-html5
+  description: | # this will include new lines to allow paragraphs
+    Implementación del famoso juego de memorama pero con JavaScript, se puede jugar en teléfonos, tabletas y computadoras; además de que es open source.
+
+    ![Juego de memorama en JavaScript](https://parzibyte.me/blog/wp-content/uploads/2019/08/Juego-de-memorama-en-JavaScript.png)
+- layout: top-middle
+  name: Plugin para imprimir en impresora térmica usando JavaScript
+  link: https://parzibyte.github.io/plugin-ticket-js/index.html
+  github: parzibyte/plugin-ticket-js
+  description: | # this will include new lines to allow paragraphs
+    Un plugin gratuito para imprimir tickets o facturas en una thermal printer usando JavaScript, sin dependencias, solo se necesita el plugin
+
+    ![Plugin para imprimir en impresora térmica usando JavaScript](https://raw.githubusercontent.com/parzibyte/plugin-ticket-js/master/Ticket%20impreso%20con%20JavaScript%20puro.jpg)
+- layout: top-middle
+  name: Punto de venta
+  link: https://parzibyte.me/blog/2019/03/20/software-gratuito-control-ventas-sublime-pos-3/
+  # github: parzibyte/juego-memorama-js-html5
+  description: | # this will include new lines to allow paragraphs
+    Punto de venta nuevo, potente, seguro, fácil de usar, amigable y totalmente gratis. Gestiona clientes, ventas, apartados y muchas cosas más.
+
+    ![Punto de venta](https://parzibyte.me/apps/sublime-pos-3/img/caracteristicas/escritorio1.png)
+- layout: top-middle
+  name: App de notas con PHP
+  link: https://parzibyte.me/blog/2019/07/29/app-notas-php-ejemplo-codigo/
+  github: parzibyte/app-notas-php
+  description: | # this will include new lines to allow paragraphs
+    Simple app para tomar notas con PHP y MySQL; usando Bootstrap para el diseño. Permite el registro de usuarios usando correo electrónico
+
+    ![App de notas con PHP](https://parzibyte.me/blog/wp-content/uploads/2019/07/Demostraci%C3%B3n-app-de-notas-con-PHP-y-MySQL.gif)
+- layout: top-middle
+  name: Conversión de imagen a texto
+  link: https://parzibyte.me/blog/2019/05/28/extraer-texto-imagen-aplicacion-web/
+  github: parzibyte/conversor-imagen-a-texto-js
+  description: | # this will include new lines to allow paragraphs
+    Extrae el texto de una foto o imagen
+
+    ![Conversión de imagen a texto](https://parzibyte.me/blog/wp-content/uploads/2019/05/Conversor-de-imagen-a-texto-en-Chrome.png)
+- layout: top-middle
+  name: App de cotizaciones
+  link: https://parzibyte.me/blog/2019/01/10/sistema-web-para-cotizaciones-y-presupuestos-gratuito-open-source/
+  github: parzibyte/cotizaciones_web
+  description: | # this will include new lines to allow paragraphs
+    Manejo de cotizaciones y clientes en la web
+
+    ![App de cotizaciones](https://parzibyte.me/blog/wp-content/uploads/2019/01/Sistema-web-para-cotizaciones-y-presupuestos.png)
+- layout: top-middle
+  name: Generador de ejercicios de multiplicaciones
+  link: https://parzibyte.me/blog/2019/05/04/generador-de-multiplicaciones-online-para-imprimir-y-resolver/
+  github: parzibyte/generador-de-multiplicaciones-js
+  description: | # this will include new lines to allow paragraphs
+    App web que permite generar multiplicaciones aleatorias y después imprimirlas
+
+    ![Generador de ejercicios de multiplicaciones](https://parzibyte.me/blog/wp-content/uploads/2019/04/Generador-de-multiplicaciones-online-Ejercicios-de-matem%C3%A1ticas.png)
+- layout: top-middle
+  name: Sistema de pagos y cotizaciones
+  link: https://parzibyte.me/blog/2019/07/01/sistema-web-pagos-cooperaciones-open-source-php/
+  github: parzibyte/sistema-pagos-php-vue
+  description: | # this will include new lines to allow paragraphs
+    Aplicación para llevar un registro de pagos de personas usando PHP y Vue, con MySQL como backend
+
+    ![Sistema de pagos y cotizaciones](https://parzibyte.me/blog/wp-content/uploads/2019/07/Pagos-de-personas.png)
+- layout: top-middle
+  name: Adminístrate (beta)
+  link: https://parzibyte.me/blog/2019/04/13/aplicacion-android-gratuita-finanzas-personales-gastos-ingresos-deudas-prestamos/
+  # github: parzibyte/juego-memorama-js-html5
+  description: | # this will include new lines to allow paragraphs
+    Presentando app para control financiero personal: Adminístrate
+    Desde hace algún tiempo (para mejorar mis habilidades en Android) he estado programando una aplicación de Android que además de ser gratuita tiene las siguientes características:
+
+    - Control de gastos
+    - Control de ingresos
+    - Deudas
+    - Préstamos
+    - Reportes de gastos e ingresos
+    - Gráficas
+    - Entre otros
+
+    ![Adminístrate (beta)](https://parzibyte.me/blog/wp-content/uploads/2019/04/Escritorio-1-Mostrar-balance-y-gastos.png)
