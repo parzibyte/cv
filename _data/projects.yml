@@ -12,6 +12,15 @@
     3 - O ver mi [portafolio web](https://parzibyte.me/#portafolio)
 
 - layout: top-middle    
+  name: Gestor de enlaces y acortadores (tipo multipaste)
+  link: https://parzibyte.me/blog/2019/12/16/sistema-gestor-enlaces-acortadores/
+  #github: sproogen/resume-theme
+  description: | # this will include new lines to allow paragraphs
+    Sistema para acortar enlaces automáticamente, registrar contenido o subidas, permitir usuarios premium y llevar un registro de enlaces; ya sea enlaces de descarga o enlaces a cualquier contenido para monetizarlo.
+    Hecho con PHP y Bootstrap
+
+    ![Gestor de enlaces tipo multipaste](https://parzibyte.me/blog/wp-content/uploads/2019/12/Agregar-contenido-con-enlaces-que-se-acortan-autom%C3%A1ticamente-seg%C3%BAn-configuraci%C3%B3n.png)
+- layout: top-middle    
   name: Control escolar
   link: https://parzibyte.me/blog/2019/12/08/control-escolar-software-web-gestion-escuelas/
   #github: sproogen/resume-theme
