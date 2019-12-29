@@ -12,6 +12,14 @@
     3 - O ver mi [portafolio web](https://parzibyte.me/#portafolio)
 
 - layout: top-middle    
+  name: Control escolar
+  link: https://parzibyte.me/blog/2019/12/08/control-escolar-software-web-gestion-escuelas/
+  #github: sproogen/resume-theme
+  description: | # this will include new lines to allow paragraphs
+    Control de alumnos, grupos, docentes y calificaciones; con generador de boletas, horarios de clase y gráficas. Programado usando Go, Vue.JS, JavaScript y Buefy.
+
+    ![Software de control escolar](https://parzibyte.me/blog/wp-content/uploads/2019/12/Control-escolar-Bienvenida-al-sistema.png)
+- layout: top-middle    
   name: Control de turnos
   link: https://parzibyte.me/blog/2019/09/05/turnero-web-software-control-turnos/
   #github: sproogen/resume-theme
